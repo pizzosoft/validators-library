@@ -1,4 +1,4 @@
-module github.com/pizzosoft/validators-library
+module validators-library
 
 go 1.23.0
 
